@@ -1,5 +1,9 @@
 # Cyber
 Zadania domowe
+
+https://blog.lastpass.com/posts/security-incident-update-recommended-actions
+
+
 Szablon analizy
 1. Nazwa incydentu
 LastPass Security Incident 2022, 2023
